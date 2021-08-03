@@ -1,0 +1,2696 @@
+fileFormatVersion: 2
+guid: 9175252894f6d4da1b95325a0365e62a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6486737953712607487
+    second: boifrend_0
+  - first:
+      213: 7748109486184549274
+    second: boifrend_1
+  - first:
+      213: 4348557211567057698
+    second: boifrend_2
+  - first:
+      213: 7766055092579300736
+    second: boifrend_3
+  - first:
+      213: -78738592597462187
+    second: boifrend_4
+  - first:
+      213: 8336819253339877565
+    second: boifrend_5
+  - first:
+      213: 3270881513900841377
+    second: boifrend_6
+  - first:
+      213: -1973326448350940768
+    second: boifrend_7
+  - first:
+      213: 6689415412833587241
+    second: boifrend_8
+  - first:
+      213: -3129301700437853082
+    second: boifrend_9
+  - first:
+      213: 6760642098640937860
+    second: boifrend_10
+  - first:
+      213: -2010343675275810793
+    second: boifrend_11
+  - first:
+      213: -5863334875809957458
+    second: boifrend_12
+  - first:
+      213: 3197054873588423315
+    second: boifrend_13
+  - first:
+      213: -8361164782354603783
+    second: boifrend_14
+  - first:
+      213: 5043431294668790123
+    second: boifrend_15
+  - first:
+      213: 3208924981228375281
+    second: boifrend_16
+  - first:
+      213: -1068878480210040388
+    second: boifrend_17
+  - first:
+      213: 3112806958608213856
+    second: boifrend_18
+  - first:
+      213: -886400346995029976
+    second: boifrend_19
+  - first:
+      213: 3193114002257784083
+    second: boifrend_20
+  - first:
+      213: 3323306456721632799
+    second: boifrend_21
+  - first:
+      213: -6342650964063999951
+    second: boifrend_22
+  - first:
+      213: 7631356800558052990
+    second: boifrend_23
+  - first:
+      213: 2096545309726491693
+    second: boifrend_24
+  - first:
+      213: -1816445415112083097
+    second: boifrend_25
+  - first:
+      213: 4180639282909899042
+    second: boifrend_26
+  - first:
+      213: -6672794978729833035
+    second: boifrend_27
+  - first:
+      213: 7234337027501246112
+    second: boifrend_28
+  - first:
+      213: 3158684581046936449
+    second: boifrend_29
+  - first:
+      213: 3498292049665159102
+    second: boifrend_30
+  - first:
+      213: -6374367047455958765
+    second: boifrend_31
+  - first:
+      213: -4824813508111380554
+    second: boifrend_32
+  - first:
+      213: 7507533210394597304
+    second: boifrend_33
+  - first:
+      213: 8345038811611295780
+    second: boifrend_34
+  - first:
+      213: 9041178036976425777
+    second: boifrend_35
+  - first:
+      213: -8085568227053445815
+    second: boifrend_36
+  - first:
+      213: -5639330895407423079
+    second: boifrend_37
+  - first:
+      213: -8970376872242545510
+    second: boifrend_38
+  - first:
+      213: 3368566483109079627
+    second: boifrend_39
+  - first:
+      213: -2589292596212354645
+    second: boifrend_40
+  - first:
+      213: -1971300532168896532
+    second: boifrend_41
+  - first:
+      213: -4942360833533887464
+    second: boifrend_42
+  - first:
+      213: 2545310926789061366
+    second: boifrend_43
+  - first:
+      213: -6390466594763216296
+    second: boifrend_44
+  - first:
+      213: 2642914554515410635
+    second: boifrend_45
+  - first:
+      213: -5438659907350698627
+    second: boifrend_46
+  - first:
+      213: -8243587650214879970
+    second: boifrend_47
+  - first:
+      213: 3272683926780278282
+    second: boifrend_48
+  - first:
+      213: 4374344057931765230
+    second: boifrend_49
+  - first:
+      213: 3188818072556125815
+    second: boifrend_50
+  - first:
+      213: 1880640847067153829
+    second: boifrend_51
+  - first:
+      213: 3716024131260523180
+    second: boifrend_52
+  - first:
+      213: -7715123027828189753
+    second: boifrend_53
+  - first:
+      213: -6035372859500369356
+    second: boifrend_54
+  - first:
+      213: 7591484913767919349
+    second: boifrend_55
+  - first:
+      213: -8898332711202503142
+    second: boifrend_56
+  - first:
+      213: 5466222455467255153
+    second: boifrend_57
+  - first:
+      213: -8977208638324753044
+    second: boifrend_58
+  - first:
+      213: 6852778285980998319
+    second: boifrend_59
+  - first:
+      213: -8325905703525585683
+    second: boifrend_60
+  - first:
+      213: 3052757880122290229
+    second: boifrend_61
+  - first:
+      213: -2545946490253379686
+    second: boifrend_62
+  - first:
+      213: 6929949333994195105
+    second: boifrend_63
+  - first:
+      213: -8365164436247461785
+    second: boifrend_64
+  - first:
+      213: 4725079131307126848
+    second: boifrend_65
+  - first:
+      213: -1161721416388894523
+    second: boifrend_66
+  - first:
+      213: 6615814086985677539
+    second: boifrend_67
+  - first:
+      213: -8593955385627749878
+    second: boifrend_68
+  - first:
+      213: 2034505771590969726
+    second: boifrend_69
+  - first:
+      213: -3420700526031139386
+    second: boifrend_70
+  - first:
+      213: 7514888863624162405
+    second: boifrend_71
+  - first:
+      213: 4509047763493649010
+    second: boifrend_72
+  - first:
+      213: 4188091613971436176
+    second: boifrend_73
+  - first:
+      213: 227439054097645905
+    second: boifrend_74
+  - first:
+      213: -2800348765488231709
+    second: boifrend_75
+  - first:
+      213: -2654221372160403073
+    second: boifrend_76
+  - first:
+      213: -8648037455493282959
+    second: boifrend_77
+  - first:
+      213: 1835972834056498639
+    second: boifrend_78
+  - first:
+      213: 4965986423416931342
+    second: boifrend_79
+  - first:
+      213: 5523648469375570250
+    second: boifrend_80
+  - first:
+      213: 6672114749395344641
+    second: boifrend_81
+  - first:
+      213: -4565629433500507057
+    second: boifrend_82
+  - first:
+      213: 3212404957763246280
+    second: boifrend_83
+  - first:
+      213: -8539064400630771036
+    second: boifrend_84
+  - first:
+      213: -4442196730906465293
+    second: boifrend_85
+  - first:
+      213: -605258465427553051
+    second: boifrend_86
+  - first:
+      213: 5462712333170442956
+    second: boifrend_87
+  - first:
+      213: -3115419432093141436
+    second: boifrend_88
+  - first:
+      213: -3226082311033178064
+    second: boifrend_89
+  - first:
+      213: 9134041949319419393
+    second: boifrend_90
+  - first:
+      213: -3527812962639523820
+    second: boifrend_91
+  - first:
+      213: 3919581264516491501
+    second: boifrend_92
+  - first:
+      213: -2631679056041846744
+    second: boifrend_93
+  - first:
+      213: 8272163580376619009
+    second: boifrend_94
+  - first:
+      213: -3356691831757980775
+    second: boifrend_95
+  - first:
+      213: -8500113088680960413
+    second: boifrend_96
+  - first:
+      213: -6105390022224341822
+    second: boifrend_97
+  - first:
+      213: -1759403080697295020
+    second: boifrend_98
+  - first:
+      213: 2379499847365876809
+    second: boifrend_99
+  - first:
+      213: 8459685490618647778
+    second: boifrend_100
+  - first:
+      213: 1984742903581866513
+    second: boifrend_101
+  - first:
+      213: -9062091350284825523
+    second: boifrend_102
+  - first:
+      213: 2762474530695409140
+    second: boifrend_103
+  - first:
+      213: -2017543926271624893
+    second: boifrend_104
+  - first:
+      213: 5183679548866438638
+    second: boifrend_105
+  - first:
+      213: -7449602366314171019
+    second: boifrend_106
+  - first:
+      213: -5549553293109312011
+    second: boifrend_107
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boifrend_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 562
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0951afcc5850a50800000000000000
+      internalID: 6486737953712607487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 562
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b4dd4c680d68b60800000000000000
+      internalID: 7748109486184549274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 562
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22beae88ebd295c30800000000000000
+      internalID: 4348557211567057698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 562
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0857d4bd5f196cb60800000000000000
+      internalID: 7766055092579300736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 562
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5533d1ecaa348eef0800000000000000
+      internalID: -78738592597462187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 562
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0f5f7c0f452b370800000000000000
+      internalID: 8336819253339877565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_6
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 562
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a993723861846d20800000000000000
+      internalID: 3270881513900841377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_7
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 558
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1b824ec065d94e0800000000000000
+      internalID: -1973326448350940768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_8
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 554
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92018fc30e395dc50800000000000000
+      internalID: 6689415412833587241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_9
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 558
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c3066eeac7294d0800000000000000
+      internalID: -3129301700437853082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_10
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 558
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4836b075b20a2dd50800000000000000
+      internalID: 6760642098640937860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_11
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 558
+        width: 68
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7186bbe1413d914e0800000000000000
+      internalID: -2010343675275810793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_12
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 559
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea93038eeff31aea0800000000000000
+      internalID: -5863334875809957458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_13
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 558
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a5ba308783e5c20800000000000000
+      internalID: 3197054873588423315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_14
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 558
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f06f370eec27fb80800000000000000
+      internalID: -8361164782354603783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_15
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 559
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6952df8a0eddf540800000000000000
+      internalID: 5043431294668790123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_16
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 558
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc8ef0d444688c20800000000000000
+      internalID: 3208924981228375281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_17
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 558
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb965077fa49a21f0800000000000000
+      internalID: -1068878480210040388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 481
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067e43ebf69e23b20800000000000000
+      internalID: 3112806958608213856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_19
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 481
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828049ca49fd2b3f0800000000000000
+      internalID: -886400346995029976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_20
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 414
+        width: 108
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31da6e76448305c20800000000000000
+      internalID: 3193114002257784083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_21
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 481
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ea7a06d91ce1e20800000000000000
+      internalID: 3323306456721632799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_22
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 481
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1382da09d806af7a0800000000000000
+      internalID: -6342650964063999951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 414
+        width: 87
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e763683d39608e960800000000000000
+      internalID: 7631356800558052990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_24
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 481
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2442c9e9dc681d10800000000000000
+      internalID: 2096545309726491693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_25
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 481
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7697b56d480bac6e0800000000000000
+      internalID: -1816445415112083097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_26
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 481
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22963ef174d940a30800000000000000
+      internalID: 4180639282909899042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_27
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 481
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd4cc122587563a0800000000000000
+      internalID: -6672794978729833035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_28
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 481
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6caa58237856460800000000000000
+      internalID: 7234337027501246112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_29
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 481
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1836eca14e6e5db20800000000000000
+      internalID: 3158684581046936449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_30
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 487
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf6ddc951e6c8030800000000000000
+      internalID: 3498292049665159102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_31
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 490
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3199e6471f2b987a0800000000000000
+      internalID: -6374367047455958765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_32
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 487
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfc3856da1da0db0800000000000000
+      internalID: -4824813508111380554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_33
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 498
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b79401adad103860800000000000000
+      internalID: 7507533210394597304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_34
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 495
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42070f2d5988fc370800000000000000
+      internalID: 8345038811611295780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_35
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 490
+        width: 120
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b1b0db587b87d70800000000000000
+      internalID: 9041178036976425777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 414
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d5b43698a4acf80800000000000000
+      internalID: -8085568227053445815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_37
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 417
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991ea58dd621db1b0800000000000000
+      internalID: -5639330895407423079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_38
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 413
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c7a9403c1d28380800000000000000
+      internalID: -8970376872242545510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_39
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 413
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ae0047e5d8fbe20800000000000000
+      internalID: 3368566483109079627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_40
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 415
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1b6373a1cf01cd0800000000000000
+      internalID: -2589292596212354645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_41
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 412
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefc8824c9884a4e0800000000000000
+      internalID: -1971300532168896532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_42
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 411
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cb865f105396bb0800000000000000
+      internalID: -4942360833533887464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_43
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 411
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6faae226dc2c25320800000000000000
+      internalID: 2545310926789061366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_44
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 413
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a632e7d708057a0800000000000000
+      internalID: -6390466594763216296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_45
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 414
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcec999d8c48da420800000000000000
+      internalID: 2642914554515410635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_46
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 414
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75e33821aff584b0800000000000000
+      internalID: -5438659907350698627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_47
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 414
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d152265b4e89d80800000000000000
+      internalID: -8243587650214879970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_48
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 414
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a067ed521b8ea6d20800000000000000
+      internalID: 3272683926780278282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_49
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 413
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee51d529ebac4bc30800000000000000
+      internalID: 4374344057931765230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_50
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 443
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ebd045425f04c20800000000000000
+      internalID: 3188818072556125815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_51
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 414
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a50787e2e0691a10800000000000000
+      internalID: 1880640847067153829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca220905248f19330800000000000000
+      internalID: 3716024131260523180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 345
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c55ddf8b706ee490800000000000000
+      internalID: -7715123027828189753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_54
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 343
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a627e6c5c0e3ca0800000000000000
+      internalID: -6035372859500369356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_55
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 343
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5feafd2ce4f5a5960800000000000000
+      internalID: 7591484913767919349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_56
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 345
+        width: 82
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1649876b85c28480800000000000000
+      internalID: -8898332711202503142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_57
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 272
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175a369ac5cebdb40800000000000000
+      internalID: 5466222455467255153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_58
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 343
+        width: 137
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6db5168e4c8a6380800000000000000
+      internalID: -8977208638324753044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_59
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 341
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa58642b85f91f50800000000000000
+      internalID: 6852778285980998319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_60
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 341
+        width: 138
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec65fb00e0747c80800000000000000
+      internalID: -8325905703525585683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_61
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 342
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530b6f52e139d5a20800000000000000
+      internalID: 3052757880122290229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_62
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 341
+        width: 138
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a977b47f72bfaacd0800000000000000
+      internalID: -2545946490253379686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_63
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 341
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8cd2ce3302c2060800000000000000
+      internalID: 6929949333994195105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_64
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 342
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7604db90447f8eb80800000000000000
+      internalID: -8365164436247461785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_65
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 342
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0403c257f6ad29140800000000000000
+      internalID: 4725079131307126848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_66
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 341
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c02d20e68cb0efe0800000000000000
+      internalID: -1161721416388894523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_67
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 342
+        width: 140
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea7eca2cd710db50800000000000000
+      internalID: 6615814086985677539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_68
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 278
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a025a180c132cb880800000000000000
+      internalID: -8593955385627749878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_69
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 272
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79692158340c3c10800000000000000
+      internalID: 2034505771590969726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_70
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 272
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd0ce6cefa3780d0800000000000000
+      internalID: -3420700526031139386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_71
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 271
+        width: 68
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c6bda1b9f3a4860800000000000000
+      internalID: 7514888863624162405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_72
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 272
+        width: 77
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27afe4a0d0b539e30800000000000000
+      internalID: 4509047763493649010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_73
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 272
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0925f8922271f1a30800000000000000
+      internalID: 4188091613971436176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_74
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 270
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1518a8b5d96082300800000000000000
+      internalID: 227439054097645905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_75
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 272
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eaced972a92329d0800000000000000
+      internalID: -2800348765488231709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_76
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 272
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79112589bf4a2bd0800000000000000
+      internalID: -2654221372160403073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_77
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 270
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173cc05e0cffbf780800000000000000
+      internalID: -8648037455493282959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_78
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 274
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd643fa09faa7910800000000000000
+      internalID: 1835972834056498639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_79
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 271
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04cd27575abae440800000000000000
+      internalID: 4965986423416931342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_80
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 278
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41d2417401f7ac40800000000000000
+      internalID: 5523648469375570250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_81
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 278
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d9a52a30d189c50800000000000000
+      internalID: 6672114749395344641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_82
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 278
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4462205830a3a0c0800000000000000
+      internalID: -4565629433500507057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_83
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 278
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c89e2ef941c49c20800000000000000
+      internalID: 3212404957763246280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_84
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 278
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a218366b262f7980800000000000000
+      internalID: -8539064400630771036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb2be7eb952a52c0800000000000000
+      internalID: -4442196730906465293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_86
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 207
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e484eae1a0b997f0800000000000000
+      internalID: -605258465427553051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_87
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 206
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc205c0ace37fcb40800000000000000
+      internalID: 5462712333170442956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_88
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 206
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4463dbf588ec3c4d0800000000000000
+      internalID: -3115419432093141436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_89
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 206
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03832ba0b37aa33d0800000000000000
+      internalID: -3226082311033178064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_90
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 206
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10653b832c2a2ce70800000000000000
+      internalID: 9134041949319419393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_91
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 206
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4105ad73dc0ba0fc0800000000000000
+      internalID: -3527812962639523820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_92
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 206
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de828cba466256630800000000000000
+      internalID: 3919581264516491501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_93
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 206
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8285acd77d56a7bd0800000000000000
+      internalID: -2631679056041846744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_94
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 210
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1089544d2f0acc270800000000000000
+      internalID: 8272163580376619009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_95
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 210
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b3c934092aa61d0800000000000000
+      internalID: -3356691831757980775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_96
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 210
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ed58e6e28890a80800000000000000
+      internalID: -8500113088680960413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_97
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 178
+        width: 110
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c49a1e5f1c454ba0800000000000000
+      internalID: -6105390022224341822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_98
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 166
+        width: 97
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f4f4648385597e0800000000000000
+      internalID: -1759403080697295020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_99
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 162
+        width: 72
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cd659018ea50120800000000000000
+      internalID: 2379499847365876809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_100
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 171
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4c9d3e127d66570800000000000000
+      internalID: 8459685490618647778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_101
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 206
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a797ab7293b8b10800000000000000
+      internalID: 1984742903581866513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_102
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 206
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c02201eebfc3280800000000000000
+      internalID: -9062091350284825523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fde92f03f7465620800000000000000
+      internalID: 2762474530695409140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_104
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 99
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34935db0d7e3004e0800000000000000
+      internalID: -2017543926271624893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_105
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 99
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee524abd51120f740800000000000000
+      internalID: 5183679548866438638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_106
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 412
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5753fe51e12bd9890800000000000000
+      internalID: -7449602366314171019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boifrend_107
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 414
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5ce16cea60cf2b0800000000000000
+      internalID: -5549553293109312011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
